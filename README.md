@@ -1,6 +1,6 @@
 # Cloud Speech-to-Text API Example
 
-This directory contains an Android example that uses the
+This directory contains an Updated Android example that uses the
 [Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/)
 with the [Google Cloud Client Library for Java]
 
